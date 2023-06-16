@@ -1,0 +1,1 @@
+cmd_/root/Host_Drivers/NVIDIA-Linux-x86_64-525.85.07-vgpu-kvm/kernel/nvidia/nv-kernel.o := ln -sf /root/Host_Drivers/NVIDIA-Linux-x86_64-525.85.07-vgpu-kvm/kernel/nvidia/nv-kernel.o_binary /root/Host_Drivers/NVIDIA-Linux-x86_64-525.85.07-vgpu-kvm/kernel/nvidia/nv-kernel.o

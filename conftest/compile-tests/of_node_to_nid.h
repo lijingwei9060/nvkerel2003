@@ -1,0 +1,2 @@
+#define NV_LINUX_OF_H_USABLE
+#undef NV_OF_NODE_TO_NID_PRESENT
